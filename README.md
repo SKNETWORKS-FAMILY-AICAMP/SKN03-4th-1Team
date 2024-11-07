@@ -13,7 +13,7 @@
 
 # ✨Stackoverflow-QA-Finder
 
-## 📖개요
+## 📌개요
 
 **Stackoverflow-QA-Finder**는 스택 오버플로우의 질문과 답변을 쉽게 찾고 필터링할 수 있도록 도와주는 시스템입니다.
 
@@ -21,7 +21,7 @@
 
 이 프로젝트는 **Langchain**과 **OpenAI**를 사용한 **RAG** 방식을 활용하여 실시간 답변을 제공합니다.
 
-## 파이프라인
+## 📌파이프라인
 
 <details>
   <summary> SQL</summary>
@@ -104,8 +104,32 @@
 - 프롬프트를 스택오버플로우에 맞게 작성 - LLM을 통해 이해하기 쉬운 형태로 답변을 요약 - 관련 질문이나 참고 자료 링크를 추가
 </details>
 
----
+<details>
+  <summary>Python</summary>
+  여기에 숨기고 싶은 내용을 작성합니다.
+  예를 들어, 긴 설명이나 코드 예시를 넣을 수 있습니다.
+</details>
 
-# 기술스택
+<details>
+  <summary>C#</summary>
+  여기에 숨기고 싶은 내용을 작성합니다.
+  예를 들어, 긴 설명이나 코드 예시를 넣을 수 있습니다.
+</details>
+
+<details>
+  <summary>Javascript</summary>
+  여기에 숨기고 싶은 내용을 작성합니다.
+  예를 들어, 긴 설명이나 코드 예시를 넣을 수 있습니다.
+</details>
+
+<details>
+  <summary>Java</summary>
+  여기에 숨기고 싶은 내용을 작성합니다.
+  예를 들어, 긴 설명이나 코드 예시를 넣을 수 있습니다.
+</details>
+
+###
+
+## 📌기술스택
 
 | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=whit) |![Langchain](https://img.shields.io/badge/Langchain-00C7B7?logo=langchain&logoColor=white) | ![OpenAI](https://img.shields.io/badge/OpenAI-343541?logo=openai&logoColor=white) |
