@@ -102,6 +102,12 @@
 ### 6. LLM을 사용한 답변 요약 및 참고 자료 제공
 
 - 프롬프트를 스택오버플로우에 맞게 작성 - LLM을 통해 이해하기 쉬운 형태로 답변을 요약 - 관련 질문이나 참고 자료 링크를 추가
+   
+## 실행 화면
+![c_1](https://github.com/user-attachments/assets/b6f0a205-e218-4026-beaf-9ad4cc3ef982)
+![c_2](https://github.com/user-attachments/assets/278a3eb2-d8fc-405e-84b3-92245e199081)
+![c_3](https://github.com/user-attachments/assets/8a31f2d0-403b-4701-b463-48bf545dc192)
+
 </details>
 
 <details>
