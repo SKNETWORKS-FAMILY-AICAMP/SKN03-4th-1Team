@@ -68,8 +68,11 @@
 
 ### 5. 유사 질문 표시
 
-- **답변과 유사한 질문 출력**</details>
-
+- **답변과 유사한 질문 출력**
+###
+## 실행화면
+![image](https://github.com/user-attachments/assets/cbe0e9eb-9326-4790-b99a-d6ada6821241)
+</details>
 <details>
   <summary>C++</summary>
   
