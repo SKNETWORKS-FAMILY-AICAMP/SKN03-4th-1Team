@@ -106,26 +106,22 @@
 
 <details>
   <summary>Python</summary>
-  여기에 숨기고 싶은 내용을 작성합니다.
-  예를 들어, 긴 설명이나 코드 예시를 넣을 수 있습니다.
+
 </details>
 
 <details>
   <summary>C#</summary>
-  여기에 숨기고 싶은 내용을 작성합니다.
-  예를 들어, 긴 설명이나 코드 예시를 넣을 수 있습니다.
+
 </details>
 
 <details>
   <summary>Javascript</summary>
-  여기에 숨기고 싶은 내용을 작성합니다.
-  예를 들어, 긴 설명이나 코드 예시를 넣을 수 있습니다.
+
 </details>
 
 <details>
   <summary>Java</summary>
-  여기에 숨기고 싶은 내용을 작성합니다.
-  예를 들어, 긴 설명이나 코드 예시를 넣을 수 있습니다.
+
 </details>
 
 ###
